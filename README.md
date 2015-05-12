@@ -1,5 +1,5 @@
 # NETLab09
-Lab for WCF. See Wiki (in Polis)
+Lab for WCF. See Wiki (in Polish)
 
 [Zadania](../../wiki/Zadania)
 
